@@ -10,4 +10,4 @@ Server folder has it's own instrction in __readme.md__ file;
 ![](./fs-crud-vilte-meske.gif)
 
 ## Request examples
-Request examples can be viewed using [Postman](https://www.postman.com/downloads/). Request examples are given in [Postman File]()
+Request examples can be viewed using [Postman](https://www.postman.com/downloads/). Request examples are given in [Postman File](./books.postman_collection.json)
