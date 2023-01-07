@@ -1,0 +1,46 @@
+{
+    "books": [
+      {
+        "id": "1",
+        "author": "Jane Austen ",
+        "title": "Pride and Prejudice",
+        "year": 1813,
+        "read": false
+      },
+      {
+        "id": "2",
+        "author": "F. Scott Fitzgerald",
+        "title": "The Great Gatsby",
+        "year": 1925,
+        "read": false
+      },
+      {
+        "id": "3",
+        "author": "Jack London",
+        "title": "The Call of the Wild",
+        "year": 1903,
+        "read": true
+      },
+      {
+        "id": "4",
+        "author": "Fyodor Dostoevsky",
+        "title": "Crime and Punishment",
+        "year": 1866,
+        "read": true
+      },
+      {
+        "id": "5",
+        "author": "Charles Dickens",
+        "title": "Great Expectations",
+        "year": 1861,
+        "read": true
+      },
+      {
+        "id": "6",
+        "author": "Alice Walker",
+        "title": "The Color Purple",
+        "year": 1982,
+        "read": false
+      }
+    ]
+  }
